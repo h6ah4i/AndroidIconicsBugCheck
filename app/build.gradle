@@ -26,5 +26,7 @@ dependencies {
 
     compile 'com.mikepenz:iconics-core:1.7.3@aar'
     compile 'com.mikepenz:fontawesome-typeface:4.4.0.1@aar'
+
+    // Need to add other typeface libraries to reproduce the IconicsButton issue
     compile 'com.mikepenz:google-material-typeface:1.2.0.1@aar'
 }
